@@ -1,4 +1,4 @@
-# 🎯 GoEmotions Multilabel Sentiment Analysis using RoBERTa
+#  GoEmotions Multilabel Sentiment Analysis using RoBERTa
 
 This project fine-tunes **RoBERTa-base** on the **GoEmotions** dataset — a multilabel emotion classification dataset originally curated by Google AI, containing 58k Reddit comments labeled with 27 emotion classes plus *neutral*.  
 The goal is to predict multiple emotions per text input (since one sentence can express more than one emotion).
